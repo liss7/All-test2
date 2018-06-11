@@ -1,0 +1,1 @@
+=cmd|' /c C:\Windows\System32\calc'!A0
